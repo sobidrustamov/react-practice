@@ -13,3 +13,25 @@
   justify-content: center;
   text-transform: uppercase;
 }
+#dashboard, #posts, #post {
+  width: 70%;
+  margin: 0 auto;
+}
+
+#spinner {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-color: #fff;
+}
+
+.spinner {
+  width: 100px;
+  height: 100px;
+}
+
+
